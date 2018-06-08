@@ -1,3 +1,3 @@
 # Team-project---Recognition-app
 
-This project deals with construction of a web application for recognize employees. Employees had options to recognize co-workers in different categories. It was created employee statistics for different times.
+The project dealt with construction of a web application to recognize employees. Employees had options to recognize/evaluate co-workers in different categories. It also generated tables with  employee statistics for different time periods. 
